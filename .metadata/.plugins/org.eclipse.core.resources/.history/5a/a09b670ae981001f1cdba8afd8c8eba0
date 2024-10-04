@@ -1,0 +1,5 @@
+package br.edu.atitus.paradigma.cambio_service.repositories;
+
+public interface CambioRepository {
+
+}
